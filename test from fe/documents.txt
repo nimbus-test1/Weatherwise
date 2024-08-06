@@ -1,0 +1,5 @@
+
+1. Ensure you have the AWS CLI configured with the appropriate credentials before running the workflow.
+2. Push your changes to the main branch or create a pull request to trigger the deployment workflow.
+3. The workflow will run Terraform commands to initialize, validate, plan, and apply your infrastructure changes.
+```
